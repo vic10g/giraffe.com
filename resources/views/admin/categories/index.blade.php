@@ -27,7 +27,7 @@
                 <td>{{$category -> title}}</td>
                  <td>{{$category -> published}}</td>
                  <td>
-                     <a href="{{route('admin.category.edit', ['id' => $category -> id])}}"><i class="fafa-edit"></i></a>
+                     <a href="{{route('admin.category.edit', ['id' => $category -> id])}}"><i>Редактировать</i></a>
                  </td>
             </tr>
             

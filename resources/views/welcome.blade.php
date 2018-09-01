@@ -9,7 +9,9 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
+        <!-- добавлял -->
+        <script src="../../font-awesome/js/fontawesome.min.js" type="text/javascript"></script>
+        <link href="../../font-awesome/css/fontawesome.min.css" rel="stylesheet" type="text/css"/>
         <!-- Styles -->
         <style>
             html, body {
